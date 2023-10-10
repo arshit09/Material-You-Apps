@@ -236,7 +236,7 @@ A list of android apps that follow the
 ## Feel free to request apps
 
 ### 🆕 Newly added
-   - `MD` [Aegis MD3](https://github.com/Wojtaz0w/Aegis-MD3) <sup>`🧋FOSS`</sup> <sup>`⚠️ There is no release, you have to build it.`</sup>
+   - `MD` [Aegis MD3](https://github.com/Wojtaz0w/Aegis-MD3) <sup>`🧋FOSS`</sup>
    - `MDY` [Nunti](https://gitlab.com/ondrejfoltyn/nunti) <sup>`🧋FOSS`</sup>
    - `MDY` [TTL Changer](https://f-droid.org/en/packages/com.mrsep.ttlchanger/) <sup>`#️⃣`</sup> <sup>`🧋FOSS`</sup>
    - `MD` [WG Tunnel](https://github.com/zaneschepke/wgtunnel) <sup>`🧋FOSS`</sup>
